@@ -11,11 +11,11 @@ I made this small piece during my studies at Netology Unite Game Development cou
 
 ### Screenshots
 <p align="center">
-  <img src="https://github.com/ovinnikova/FirstRunner/tree/master/imagesForGithub/1.png">
-  <img src="https://github.com/ovinnikova/FirstRunner/tree/master/imagesForGithub/2.png">
-  <img src="https://github.com/ovinnikova/FirstRunner/tree/master/imagesForGithub/3.png">
-  <img src="https://github.com/ovinnikova/FirstRunner/tree/master/imagesForGithub/4.png">
-  <img src="https://github.com/ovinnikova/FirstRunner/tree/master/imagesForGithub/5.png">
+  <img src="https://github.com/ovinnikova/Ovinnikova_AS_1_7/blob/master/imagesForGithub/1.png">
+  <img src="https://github.com/ovinnikova/Ovinnikova_AS_1_7/blob/master/imagesForGithub/2.png">
+  <img src="https://github.com/ovinnikova/Ovinnikova_AS_1_7/blob/master/imagesForGithub/3.png">
+  <img src="https://github.com/ovinnikova/Ovinnikova_AS_1_7/blob/master/imagesForGithub/4.png">
+  <img src="https://github.com/ovinnikova/Ovinnikova_AS_1_7/blob/master/imagesForGithub/5.png">
 </p>
 
 
